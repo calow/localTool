@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 这是一个例子 -->
+<Config>
+	<!-- 作者 -->
+	<Author>
+	zwh	
+	</Author>
+
+	<!-- 版本号 -->
+	<Version>
+		1.0
+	</Version>
+
+	<!-- 需要加载器加载的类(入口类)的全名 -->
+	<EntryClass>
+		com.example.H5Plugin.PGPluginLoading
+	</EntryClass>
+</Config>
